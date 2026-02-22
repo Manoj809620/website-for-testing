@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/your_username/repo_name">
-    <img src="https://github.com/Manoj809620/website-for-testing/blob/b4ed93551901ccfff700a40d2a6c9fce131f410a/download.jpg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Manoj809620/website-for-testing/blob/b4ed93551901ccfff700a40d2a6c9fce131f410a/download.jpg" alt="Logo" width="280" height="150">
   </a>
 
 <h3 align="center">Mango Juice Website</h3>
